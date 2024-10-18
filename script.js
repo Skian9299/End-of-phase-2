@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:3000";  // Replace with your JSON-server URL
+const apiUrl = "https://end-of-phase-2.onrender.com";  // Replace with your JSON-server URL
 
 // Function to get all babysitters and display them
 async function getBabysitters() {
